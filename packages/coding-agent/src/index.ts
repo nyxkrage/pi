@@ -334,6 +334,7 @@ export {
 	type RpcExtensionUIResponse,
 	type RpcResponse,
 	type RpcSessionState,
+	runCodexAppServerMode,
 	runPrintMode,
 	runRpcMode,
 } from "./modes/index.ts";
